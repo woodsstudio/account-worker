@@ -1,0 +1,8 @@
+name = "account-worker"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+REPO_OWNER = "woodsstudio"
+REPO_NAME = "account-worker"
+TARGET_BRANCH = "main"
